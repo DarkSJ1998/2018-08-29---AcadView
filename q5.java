@@ -1,3 +1,7 @@
+/*
+Q5. Write a Java program to count the number of words in a sentence taken as input.
+*/
+
 import java.util.Scanner;
 
 class q5
