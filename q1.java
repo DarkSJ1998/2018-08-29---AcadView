@@ -1,3 +1,7 @@
+/*
+Q1. Write a Java program to reverse a String.
+*/
+
 class q1
 {
 	public static void main(String[] x)
