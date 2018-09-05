@@ -1,3 +1,7 @@
+/*
+Q4. Write a Java program to check occurrence of a string in another string, where both strings are taken as input from the user.
+*/
+
 import java.util.Scanner;
 
 class q4
