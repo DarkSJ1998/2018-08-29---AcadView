@@ -1,3 +1,7 @@
+/*
+Q3. Write a Java program to remove all vowels from the String.
+*/
+
 import java.util.Scanner;
 
 class q3
